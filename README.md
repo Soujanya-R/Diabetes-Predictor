@@ -136,6 +136,3 @@ https://github.com/Soujanya-R
 [MIT](https://choosealicense.com/licenses/mit/)
 This project is licensed under the MIT License.
 
-## Screenshots
-
-![App Screenshot1](https://github.com/Soujanya-R/Flight-Ticket-Booking-System/blob/main/Screenshot%202025-04-16%20085423.png)
